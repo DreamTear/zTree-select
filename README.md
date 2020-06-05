@@ -3,17 +3,12 @@
 
 
 # 使用方法
-将src目录下的文件copy到自己的工程目录下，然后引入到需要的地方就可以使用了
+将src目录下的文件copy到自己的工程目录下，然后引入到需要的地方就可以使用了,
+使用前先需要引入ztree
 # 特性
-* 支持直接数据和远程加载数据
-* 支持单选和多选
-* 支持使用checkbox和不显示checkbox
+* 无
 
 # 参数
-label: 'name',
-			value: 'id',
-			separator: '/',
-			treeOption: {}
 ## label
 类型: String
 
