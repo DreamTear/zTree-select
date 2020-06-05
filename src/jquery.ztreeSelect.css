@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors wangy (wangy@huilan.com)
+ * @date    2019-07-20 15:00:45
+ * @version $Id$
+ */
+.zTree-select-dropdown-container {
+	position: absolute;
+	background: #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    display: none;
+}
